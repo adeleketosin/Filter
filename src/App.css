@@ -1,0 +1,127 @@
+*{
+  font-family: 'League Spartan', sans-serif;
+}
+body{
+  background-color: hsl(180, 52%, 96%);
+}
+.header{
+  width: 100%;
+  height: 150px;
+  background-color: hsl(180, 29%, 50%);
+  background-image: url(bg-header-desktop.svg);
+  background-repeat: no-repeat;
+}
+.container{
+  width: 800px;
+  height: 100px;
+  margin: auto;
+  /* background-color: red; */
+}
+.sub{
+  width: 800px;
+  height: 130px;
+  background-color: white;
+  /* border: red 2px solid; */
+  margin-top: 50px;
+  display: flex;
+  border-radius: 10px;
+}
+.img{
+  width: 100px;
+  height: 100px;
+  margin-top: 13px;
+  /* border: blue 2px solid; */
+  margin-left: 8px;
+}
+.photo{
+  color: hsl(180, 29%, 50%);
+}
+.new{
+  background-color: hsl(180, 29%, 50%);
+  color: white;
+  margin-left:10px;
+  width: 60px;
+  height: 25px;
+  text-align: center;
+  border-radius: 10px;
+}
+.featured{
+  background-color: black;
+  color: white;
+  margin-left:15px;
+  border-radius: 10px;
+  width: 100px;
+  height: 25px;
+  text-align: center;
+}
+.text{
+  /* border: red solid 2px; */
+  height: 110px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.first{
+  /* border: blue solid 2px; */
+  width: 250px;
+  height: 20px;
+  display: flex;
+  margin-top: 13px;
+}
+.days{
+  display: flex;
+  /* justify-content: space-around; */
+  margin-top: 10px;
+}
+.position{
+  margin-top: 10px;
+  margin-left: 2px;
+  font-size: 20px;
+}
+.contract{
+  margin-left: 10px;
+}
+.location{
+  margin-left: 10px;
+}
+.dot{
+  border: 1px solid black;
+  height: 2px;
+  width: 2px;
+  border-radius: 50%;
+  margin-left: 5px;
+  margin-top: 8px;
+  background-color: black;
+}
+.side-div{
+  display: flex;
+  margin-left: 290px;
+  /* border: 2px red solid; */
+  margin-top: -50px;
+  width: 350px;
+  justify-content: space-around;
+}
+.languages{
+  background-color: hsl(180, 32%, 92%);
+  color: hsl(180, 70%, 38%);
+  border-radius: 5px;
+  cursor: pointer;
+  width: 70px;
+  height: 30px;
+  text-align: center;
+  justify-content: space-between;
+}
+.languages:hover{
+  background-color: hsl(180, 11%, 43%);
+}
+.tools{
+  justify-content: space-between;
+  background-color: hsl(180, 32%, 92%);
+  color: hsl(180, 70%, 38%);
+  border: none;
+  border-radius: 5px;
+  width: 65px;
+  text-align: center;
+}
+.tools:hover{
+  background-color: hsl(180, 11%, 43%);
+}
