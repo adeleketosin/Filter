@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/adeleketosin.github.io/Filter/static/css/main.81b995e1.css",
+    "main.js": "/adeleketosin.github.io/Filter/static/js/main.b6a88ee6.js",
+    "static/js/787.f3d7924f.chunk.js": "/adeleketosin.github.io/Filter/static/js/787.f3d7924f.chunk.js",
+    "static/media/photosnap.svg": "/adeleketosin.github.io/Filter/static/media/photosnap.5a867c13a374d62b400f967f5469d0b1.svg",
+    "static/media/bg-header-desktop.svg": "/adeleketosin.github.io/Filter/static/media/bg-header-desktop.752d0faf14c00c6fb55f.svg",
+    "index.html": "/adeleketosin.github.io/Filter/index.html",
+    "main.81b995e1.css.map": "/adeleketosin.github.io/Filter/static/css/main.81b995e1.css.map",
+    "main.b6a88ee6.js.map": "/adeleketosin.github.io/Filter/static/js/main.b6a88ee6.js.map",
+    "787.f3d7924f.chunk.js.map": "/adeleketosin.github.io/Filter/static/js/787.f3d7924f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81b995e1.css",
+    "static/js/main.b6a88ee6.js"
+  ]
+}
